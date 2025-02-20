@@ -1,0 +1,1 @@
+ C:\\Users\\hsfco\\Desktop\\MAD\ TEAMWORK\\collab\ 19\ feb\\digipetapp\\.dart_tool\\flutter_build\\7a3db83425e7ea8173b279f3bfa273a0\\native_assets.yaml: 
